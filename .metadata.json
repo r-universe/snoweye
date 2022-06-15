@@ -1,0 +1,34 @@
+[
+  {
+    "package": "cubfits",
+    "oncran": true
+  },
+  {
+    "package": "EMCluster",
+    "oncran": true
+  },
+  {
+    "package": "MixfMRI",
+    "oncran": true
+  },
+  {
+    "package": "pbdMPI",
+    "oncran": true
+  },
+  {
+    "package": "pbdSLAP",
+    "oncran": true
+  },
+  {
+    "package": "pbdZMQ",
+    "oncran": true
+  },
+  {
+    "package": "phyclust",
+    "oncran": true
+  },
+  {
+    "package": "pmclust",
+    "oncran": true
+  }
+]
