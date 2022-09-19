@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "MixfMRI",
+    "oncran": true
+  },
+  {
     "package": "pbdMPI",
     "oncran": true
   },

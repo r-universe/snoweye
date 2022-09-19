@@ -13,6 +13,11 @@
 	url = https://github.com/snoweye/emcluster
 	shallow = true
 	registered = true
+[submodule "MixfMRI"]
+	path = MixfMRI
+	url = https://github.com/snoweye/mixfmri
+	shallow = true
+	registered = true
 [submodule "pbdMPI"]
 	path = pbdMPI
 	url = https://github.com/snoweye/pbdmpi
