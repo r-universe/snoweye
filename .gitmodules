@@ -3,6 +3,26 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "pbdMPI"]
+	path = pbdMPI
+	url = https://github.com/snoweye/pbdmpi
+	shallow = true
+	registered = true
+[submodule "pmclust"]
+	path = pmclust
+	url = https://github.com/snoweye/pmclust
+	shallow = true
+	registered = true
+[submodule "pbdSLAP"]
+	path = pbdSLAP
+	url = https://github.com/snoweye/pbdslap
+	shallow = true
+	registered = true
+[submodule "MixfMRI"]
+	path = MixfMRI
+	url = https://github.com/snoweye/mixfmri
+	shallow = true
+	registered = true
 [submodule "cubfits"]
 	path = cubfits
 	url = https://github.com/snoweye/cubfits
@@ -13,21 +33,6 @@
 	url = https://github.com/snoweye/emcluster
 	shallow = true
 	registered = true
-[submodule "MixfMRI"]
-	path = MixfMRI
-	url = https://github.com/snoweye/mixfmri
-	shallow = true
-	registered = true
-[submodule "pbdMPI"]
-	path = pbdMPI
-	url = https://github.com/snoweye/pbdmpi
-	shallow = true
-	registered = true
-[submodule "pbdSLAP"]
-	path = pbdSLAP
-	url = https://github.com/snoweye/pbdslap
-	shallow = true
-	registered = true
 [submodule "pbdZMQ"]
 	path = pbdZMQ
 	url = https://github.com/snoweye/pbdzmq
@@ -36,10 +41,5 @@
 [submodule "phyclust"]
 	path = phyclust
 	url = https://github.com/snoweye/phyclust
-	shallow = true
-	registered = true
-[submodule "pmclust"]
-	path = pmclust
-	url = https://github.com/snoweye/pmclust
 	shallow = true
 	registered = true

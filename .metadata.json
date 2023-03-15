@@ -1,5 +1,21 @@
 [
   {
+    "package": "pbdMPI",
+    "oncran": true
+  },
+  {
+    "package": "pmclust",
+    "oncran": true
+  },
+  {
+    "package": "pbdSLAP",
+    "oncran": true
+  },
+  {
+    "package": "MixfMRI",
+    "oncran": true
+  },
+  {
     "package": "cubfits",
     "oncran": true
   },
@@ -8,27 +24,11 @@
     "oncran": true
   },
   {
-    "package": "MixfMRI",
-    "oncran": true
-  },
-  {
-    "package": "pbdMPI",
-    "oncran": true
-  },
-  {
-    "package": "pbdSLAP",
-    "oncran": true
-  },
-  {
     "package": "pbdZMQ",
     "oncran": true
   },
   {
     "package": "phyclust",
-    "oncran": true
-  },
-  {
-    "package": "pmclust",
     "oncran": true
   }
 ]
