@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "MixSim",
+    "oncran": true
+  },
+  {
     "package": "pbdMPI",
     "oncran": true
   },
@@ -29,6 +33,10 @@
   },
   {
     "package": "pmclust",
+    "oncran": true
+  },
+  {
+    "package": "QZ",
     "oncran": true
   }
 ]

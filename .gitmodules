@@ -18,6 +18,11 @@
 	url = https://github.com/snoweye/mixfmri
 	shallow = true
 	registered = true
+[submodule "MixSim"]
+	path = MixSim
+	url = https://github.com/snoweye/mixsim
+	shallow = true
+	registered = true
 [submodule "pbdMPI"]
 	path = pbdMPI
 	url = https://github.com/snoweye/pbdmpi
@@ -41,5 +46,10 @@
 [submodule "pmclust"]
 	path = pmclust
 	url = https://github.com/snoweye/pmclust
+	shallow = true
+	registered = true
+[submodule "QZ"]
+	path = QZ
+	url = https://github.com/snoweye/qz
 	shallow = true
 	registered = true
