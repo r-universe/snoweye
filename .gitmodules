@@ -1,55 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cubfits"]
 	path = cubfits
 	url = https://github.com/snoweye/cubfits
-	shallow = true
-	registered = true
 [submodule "EMCluster"]
 	path = EMCluster
 	url = https://github.com/snoweye/emcluster
-	shallow = true
-	registered = true
 [submodule "MixfMRI"]
 	path = MixfMRI
 	url = https://github.com/snoweye/mixfmri
-	shallow = true
-	registered = true
 [submodule "MixSim"]
 	path = MixSim
 	url = https://github.com/snoweye/mixsim
-	shallow = true
-	registered = true
 [submodule "pbdMPI"]
 	path = pbdMPI
 	url = https://github.com/snoweye/pbdmpi
-	shallow = true
-	registered = true
 [submodule "pbdSLAP"]
 	path = pbdSLAP
 	url = https://github.com/snoweye/pbdslap
-	shallow = true
-	registered = true
 [submodule "pbdZMQ"]
 	path = pbdZMQ
 	url = https://github.com/snoweye/pbdzmq
-	shallow = true
-	registered = true
 [submodule "phyclust"]
 	path = phyclust
 	url = https://github.com/snoweye/phyclust
-	shallow = true
-	registered = true
 [submodule "pmclust"]
 	path = pmclust
 	url = https://github.com/snoweye/pmclust
-	shallow = true
-	registered = true
 [submodule "QZ"]
 	path = QZ
 	url = https://github.com/snoweye/qz
-	shallow = true
-	registered = true
