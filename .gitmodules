@@ -2,18 +2,21 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "cubfits"]
-	path = cubfits
-	url = https://github.com/snoweye/cubfits
 [submodule "EMCluster"]
 	path = EMCluster
 	url = https://github.com/snoweye/emcluster
-[submodule "MixfMRI"]
-	path = MixfMRI
-	url = https://github.com/snoweye/mixfmri
 [submodule "MixSim"]
 	path = MixSim
 	url = https://github.com/snoweye/mixsim
+[submodule "MixfMRI"]
+	path = MixfMRI
+	url = https://github.com/snoweye/mixfmri
+[submodule "QZ"]
+	path = QZ
+	url = https://github.com/snoweye/qz
+[submodule "cubfits"]
+	path = cubfits
+	url = https://github.com/snoweye/cubfits
 [submodule "pbdMPI"]
 	path = pbdMPI
 	url = https://github.com/snoweye/pbdmpi
@@ -29,6 +32,3 @@
 [submodule "pmclust"]
 	path = pmclust
 	url = https://github.com/snoweye/pmclust
-[submodule "QZ"]
-	path = QZ
-	url = https://github.com/snoweye/qz
